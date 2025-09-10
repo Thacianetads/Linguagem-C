@@ -1,4 +1,4 @@
-#🎬 Sistema de Reservas de Sala de Cinema (C)
+# 🎬 Sistema de Reservas de Sala de Cinema (C)
 
 Este projeto em C simula um sistema simples para gerenciamento de assentos em uma sala de cinema, permitindo a visualização, reserva e contabilização de lugares disponíveis ou ocupados.
 
