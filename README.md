@@ -2,7 +2,7 @@
 
 Este projeto em C simula um sistema simples para gerenciamento de assentos em uma sala de cinema, permitindo a visualização, reserva e contabilização de lugares disponíveis ou ocupados.
 
-#🧠 Funcionalidades
+# 🧠 Funcionalidades
 
 O programa apresenta um menu interativo com as seguintes opções:
 
@@ -32,7 +32,7 @@ Sair
 
 Encerra o programa.
 
-💻 Estrutura da Sala
+# 💻 Estrutura da Sala
 
 A sala é representada por uma matriz de inteiros 10x20:
 
